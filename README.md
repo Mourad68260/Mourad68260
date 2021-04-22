@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mourad ElKhamissi
+- 👀 I’m interested in Crypto Currency, Trading, Developping Android Apps, Developping Games, Automation and PCB designing
+- 🌱 I’m currently learning Deep Learning and trying to implement it into a crypto trading bot
+- 📫 How to reach me: mourad68260@gmail.com
