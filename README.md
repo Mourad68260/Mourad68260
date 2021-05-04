@@ -2,4 +2,4 @@
 - 👀 I’m interested in Crypto Currency, Trading, Developping Android Apps, Developping Games, Automation and PCB designing
 - 🌱 I’m currently learning Deep Learning and I'm implementing a LTSM network into a crypto trading bot
 - 📫 You can reach me at: mourad68260@gmail.com   :)
-- 📫 You can also my LinkedIn profile at: https://www.linkedin.com/in/mourad-elkhamissi/
+- 📫 You can also visit my LinkedIn profile here: https://www.linkedin.com/in/mourad-elkhamissi/    :)
